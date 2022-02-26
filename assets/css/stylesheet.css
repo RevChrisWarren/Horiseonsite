@@ -23,8 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/* set propertirs for navigation tools in header*/
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,15 +32,15 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* change colors for navigation links */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -96,11 +96,13 @@ p {
     margin-bottom: 35px;
 }
 
+/*add propertirs for image within benefits div*/
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* ste properties for main content class*/
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +121,7 @@ p {
     font-size: 36px;
 }
 
-
+/*style the footer section*/
 .footer {
     padding: 30px;
     clear: both;
