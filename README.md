@@ -1,4 +1,6 @@
 # Horiseonsite
+## Horiseon is a company working for companies who want to improve their search engine optimization
+
 ## Site Refactor
 This repository is for updates to the Horiseon search engine optimization website. 
 
@@ -10,3 +12,4 @@ Updates include simplifying CSS code, adding accessibility elements in the HTML 
 
 ## Site Url:
 https://revchriswarren.github.io/Horiseonsite/
+![site screenshot](screenshot/
